@@ -10,19 +10,23 @@ export const OptionsBox = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 25em;
-  height: 3em;
-  margin: 2em;
-  padding: 0.5em 1.5em;
-  border-radius: 25px;
+  width: 26em;
+  height: 4em;
+  margin: auto;
+  margin-top: 2em;
+  padding: 0.5em 0.5em;
+  border-radius: 32px;
   background-color: #151932;
 `;
 
 export const OptionsItem = styled.div`
+  font-weight: bold;
   text-align: center;
-  align-items: center;
-  width: 6em;
-  height: 1.5em;
+  font-size: 12px;
+  width: 8em;
+  height: 3em;
+  padding: 1em;
+  box-sizing: border-box;
   border-radius: 25px;
   background-color: yellow;
 `;
