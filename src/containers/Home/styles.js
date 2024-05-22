@@ -24,7 +24,7 @@ export const OptionsItem = styled.div`
   text-align: center;
   font-size: 12px;
   width: 8em;
-  height: 3em;
+  height: 3.5em;
   padding: 1em;
   box-sizing: border-box;
   border-radius: 25px;
